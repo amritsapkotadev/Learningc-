@@ -71,7 +71,7 @@ int main()
      obj.name = "Amrit sapkota";
      obj.age = 21;
      obj.rollno = 003;
-     obj.setData("nogirlfirendyet can you be?", 200000);
+     obj.setData("nogirlfriendyet can you be?", 200000);
      obj.getData();
      return 0;
 }
